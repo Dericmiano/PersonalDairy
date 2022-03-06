@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">self</string>
+    <string name="title_text">Self.Gratitude.Journal</string>
+    <string name="greatfullText">What are you greatfull for today</string>
+    <string name="getStartedText">Get Started</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">password</string>
+    <string name="login_text">Login</string>
+    <string name="or_text">or</string>
+    <string name="create_text">Create Account</string>
+    <string name="username_hint">Username</string>
+    <string name="menu_title">Add Thought</string>
+    <string name="signout">Signout</string>
+    <string name="no_thoughts_hint">Write  Journal Entry by click the add journal burron</string>
+    <string name="date_created">date created</string>
+    <string name="title">Title</string>
+    <string name="thought">thought</string>
+</resources>
